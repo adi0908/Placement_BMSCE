@@ -79,4 +79,4 @@ Zebra Technologies	7.0+	No	CSE/ISE/ECE/Telecom	Internship+FT	8 lpa	20k	Bangalore
 Cohesity	8.0+	No	CSE/ISE only	FT only	24.5 lpa	-	Bangalore	Site Reliability Engineer	22nd Nov	5 ft 
 AirAsia	7.5+	No	CSE/ISE/circuit branches	Internship + FT	9 lpa	25k	Bangalore	Software Engineer	18th Dec	2 intern+ft, 1 ft
 Visa	7.0+	No	CSE/ISE/ECE/EEE	FT only	15.4 lpa	-	Bangalore	Software Engineer	16th Dec	3 ft 
-![image](https://user-images.githubusercontent.com/66547832/123597295-c91b0680-d810-11eb-8b0a-de1f417ba8e1.png)
+![image](https://user-images.githubusercontent.com/66547832/123597441-f9fb3b80-d810-11eb-9840-18bf4b92bad4.png)
